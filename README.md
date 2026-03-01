@@ -104,3 +104,8 @@ Reasoning:
 ❌ No functional gameplay improvement (neutral)
 
 ✔️ Encourages creativity (+)
+
+
+[Old issuetracker](https://lmcmods.w3spaces.com/resourceIndexTotem.html)
+[Old sourcecode](https://lmcmods.w3spaces.com/wiki_totem.html)
+[Old wiki](https://lmcmods.w3spaces.com/Totem-Wiki.html)
